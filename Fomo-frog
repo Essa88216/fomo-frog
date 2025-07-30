@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>FOMO Frog Token ($FOMO)</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background: #0d0d0d;
+      color: #fff;
+      text-align: center;
+    }
+
+    header {
+      background: #111;
+      padding: 40px 20px;
+    }
+
+    header img {
+      max-width: 300px;
+      border-radius: 20px;
+      margin-top: 20px;
+    }
+
+    h1 {
+      font-size: 3rem;
+      color: #00ff7f;
+    }
+
+    h2 {
+      color: #ffa500;
+      margin-bottom: 10px;
+    }
+
+    p {
+      max-width: 600px;
+      margin: 10px auto;
+      font-size: 1.2rem;
+      line-height: 1.6;
+    }
+
+    section {
+      padding: 40px 20px;
+      border-bottom: 1px solid #333;
+    }
+
+    .btn {
+      display: inline-block;
+      background: #00ff7f;
+      color: #000;
+      padding: 15px 30px;
+      font-size: 1.2rem;
+      font-weight: bold;
+      border-radius: 8px;
+      text-decoration: none;
+      margin-top: 20px;
+    }
+
+    .memes {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .memes img {
+      width: 180px;
+      border-radius: 10px;
+    }
+
+    footer {
+      padding: 20px;
+      font-size: 0.9rem;
+      background: #111;
+    }
+
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 2rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🚀 FOMO FROG ($FOMO)</h1>
+    <p>The ONLY token that pumps harder the more you panic.</p>
+    <img src="YOUR_IMAGE_PATH_HERE" alt="FOMO Frog" />
+    <br />
+    <a class="btn" href="https://pump.fun" target="_blank">BUY NOW on Pump.Fun</a>
+  </header>
+
+  <section>
+    <h2>📈 What is $FOMO?</h2>
+    <p>
+      $FOMO is the degen spirit in token form. A tribute to every frog who’s ever bought the top,
+      and sold the bottom. This is your redemption arc. This is the pump you've been waiting for.
+    </p>
+  </section>
+
+  <section>
+    <h2>💰 Tokenomics</h2>
+    <p>
+      - 100% FOMO<br>
+      - 0% Utility<br>
+      - Infinite Meme Potential<br>
+      - No team, no roadmap, just vibes
+    </p>
+  </section>
+
+  <section>
+    <h2>🛒 How to Buy</h2>
+    <p>
+      1. Connect your wallet<br>
+      
